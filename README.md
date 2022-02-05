@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Cloud Resume Challenge - Azure
+
+I decided to complete this challenge to combine some of the web development and cloud items that I have learned.
+
+The challenge can be found here for those who want to learn more about the cloud and actually use it for a project: https://cloudresumechallenge.dev/
+
+
+## View Deployment on Azure
+
+This Web Deployment can be viewed VIA: XXX
+
+## Overview of Technologies Used
+
+This Web Application was built using the React Framework and Tailwind CSS as I was looking for a project to use Tailwind and React together.  The app is deployed on Azure... to be continued!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
